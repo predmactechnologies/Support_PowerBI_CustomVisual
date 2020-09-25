@@ -1,5 +1,5 @@
 # PowerBI Custom Visuals
--Forecast using Prophet
+- Forecast using Prophet
 ## Sumbit an issue
 
 To submit an issue, please follow these directions:
