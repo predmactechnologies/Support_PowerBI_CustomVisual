@@ -4,7 +4,7 @@
 
 To submit an issue, please follow these directions:
 
-1. Check if your issue already exists in the Issues page of this repository.
+1. Check if your issue already exists in the [Issues page](https://github.com/predmactechnologies/Support_PowerBI_CustomVisual/issues) of this repository.
 
 2. If you don't find anything relevant, insert a new issue including as much details as possible, your Power BI Desktop version (or the browser you are using with Power BI service) and the name of the visual.
 
