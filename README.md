@@ -23,7 +23,7 @@ The input fields required for the plot are,
 1. Forecast Settings – Used to select the forecast model and trend type
 2. Plot selection – Used to select the type of the plot. Available options are Bar and line chart
 3. Axis Setting – To change the name of the axis of the plot.
-For additional customization of the forecast, contact us via the email ** support_customvisual@predmac.com **
+For additional customization of the forecast, contact us via the email support_customvisual@predmac.com
 ## Sumbit an issue
 
 To submit an issue, please follow these directions:
