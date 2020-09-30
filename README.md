@@ -1,5 +1,27 @@
 # PowerBI Custom Visuals
-- Forecast using Prophet
+## Forecast using Prophet
+Prophet is a forecasting procedure implemented in R and Python created by Facebook. It is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects.
+For more details about the prophet model [click here](https://facebook.github.io/prophet/docs/quick_start.html#r-api).
+
+To download the visual without the logo, [click here](https://predmac.com/power-bi-custom-visual/)
+
+In this visual, we have included four different types of forecast.
+1.Forecast next 30 days using the past 90 days
+2. Forecast till the end of the current month
+3. Forecast next 4 quarters
+4. Forecast next 12 months
+Users can choose either a bar plot or line chart with linear or multi-change point trend line.
+#### Using the plot
+The input fields required for the plot are,
+
+- Date field(required format is m/d/yyyy)
+- Value field(whole number or decimal number)
+#### Customization available
+
+1. Forecast Settings – Used to select the forecast model and trend type
+2. Plot selection – Used to select the type of the plot. Available options are Bar and line chart
+3. Axis Setting – To change the name of the axis of the plot.
+For additional customization of the forecast, contact us via the email ** support_customvisual@predmac.com **
 ## Sumbit an issue
 
 To submit an issue, please follow these directions:
